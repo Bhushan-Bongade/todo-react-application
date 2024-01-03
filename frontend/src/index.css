@@ -1,0 +1,14 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/normalise/8.0.1/normalize.min.css';
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#root {
+    margin: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
